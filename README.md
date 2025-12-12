@@ -5,6 +5,7 @@
 - https://zkhack.dev/whiteboard/
 - 
 ### Schnorr
+- https://scispace.com/pdf/short-proofs-of-knowledge-for-factoring-7u34lb57u9.pdf
 - https://crypto.stanford.edu/cs355/19sp/lec5.pdf
 
 ### Plonk 
