@@ -11,3 +11,7 @@
 ### Plonk 
 - https://vitalik.eth.limo/general/2019/09/22/plonk.html
 - https://plonk.zksecurity.xyz/1_Getting_started/2_A_first_example
+
+### Short factoring 
+- https://scispace.com/pdf/short-proofs-of-knowledge-for-factoring-7u34lb57u9.pdf
+- https://www.zkdocs.com/docs/zkdocs/zero-knowledge-protocols/short-factoring-proofs/#security-pitfalls
